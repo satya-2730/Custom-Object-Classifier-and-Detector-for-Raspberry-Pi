@@ -1,6 +1,6 @@
 # Custom-Object-Detector-for-Raspberry-Pi
 
-This is a Custom trained object detector which can be used on Raspberry Pi. 
+This is a Custom trained object detector which was used on Raspberry Pi 4B. 
 This object-detector was trained to detect the 'Traffic Cones'. 
 
 
